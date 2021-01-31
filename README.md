@@ -1,1 +1,2 @@
-<h3 align="center">BetterCrewLink a Crewlink fork with extra features & better support</h3>
+## [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) a [CrewLink](https://github.com/ottomated/CrewLink) fork with extra features & better support
+

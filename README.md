@@ -45,7 +45,15 @@ A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with imp
 
 ## Installation
 
+PC:
 [Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
+
+Android:
+You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)
+
+iOS: 
+For now there is no support for iOS, but you can bring support for iOS, but the project needs $ 100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping donate by [clicking here](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) (for now you can only donate via PayPal)
+
 
 ## Possible Questions
 

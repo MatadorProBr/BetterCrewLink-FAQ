@@ -9,9 +9,9 @@
   <p align="center">
     Free, open, Among Us proximity voice chat.
     <br />
-    <a href="https://github.com/OhMyGuus/CrewLink/issues">Report Bug</a>
+    <a href="https://github.com/OhMyGuus/CrewLink/issues"></b>Report Bug</b></a>
     ·
-    <a href="https://github.com/OhMyGuus/CrewLink/issues">Request Feature</a>
+  <a href="https://github.com/OhMyGuus/CrewLink/issues"></b>Request Feature</b></a>
     ·
     <a href="#installation"><b>Installation Instructions</b></a>
   </p>

@@ -49,16 +49,16 @@ Enter this link: http://bit.ly/bettercrewlinkdownload and go to the Downloads se
 
 ## Possible Questions
 
-P: How it works?
-A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
+* P: How it works?
+  * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
-P: Is BetterCrewLink a virus?
-A: No, Windows ends up kind of "blocking'' the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, open the site https://www.virustotal.com/ and place the BetterCrewLink file, so it will do a scan of the file with ''all'' antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
+* P: Is BetterCrewLink a virus?
+  * A: No, Windows ends up kind of "blocking'' the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, open the site https://www.virustotal.com/ and place the BetterCrewLink file, so it will do a scan of the file with ''all'' antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
-P: How to use BetterCrewLink Mobile?
-A: You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the Play Store: http://bit.ly/bettercrewlinkmobile
+* P: How to use BetterCrewLink Mobile?
+  * A: You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the Play Store: http://bit.ly/bettercrewlinkmobile
 
-P: Can I play with my CrewLink friend with BetterCrewLink?
-A: Yes, as long as you are on the same server.
+* P: Can I play with my CrewLink friend with BetterCrewLink?
+  * A: Yes, as long as you are on the same server.
 
 (Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if it doesn't solve disable VAD in settings, if that doesn't work too buy a better CPU)

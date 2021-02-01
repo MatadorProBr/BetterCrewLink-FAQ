@@ -87,7 +87,7 @@ You will need a person using BetterCrewLink on the PC and with the "Mobile Host"
 
 **iOS:**
 
-For now there is no support for iOS, but you can bring support for iOS, but the project needs $100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Patreon](https://patreon.com/OhMyGuus).
+For now there is no support for iOS, but you can bring support for iOS, but the project needs $100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping [donate via Patron](https://patreon.com/OhMyGuus) or [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ).
 
 
 ## Possible Questions
@@ -108,4 +108,4 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 ## Donations
 
-If you like the project, you have money and want to help them continue the project, donate to them, [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Patron](https://www.patreon.com/OhMyGuus).
+If you like the project, you have money and want to help them continue the project, donate to them, [donate via Patron](https://www.patreon.com/OhMyGuus) or [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ).

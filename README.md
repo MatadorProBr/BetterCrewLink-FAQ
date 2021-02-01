@@ -13,7 +13,7 @@
 * [Extra features in this fork](#extra-features-in-this-fork)
 * [Installation](#installation)
 * [Possible Questions](#possible-questions)
-* [Donation](#donation)
+* [Donations](#donations)
 
 ## About the Project
 A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA (via app) and more.
@@ -75,6 +75,6 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 (Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if it doesn't solve disable VAD in settings, if that doesn't work too buy a better CPU)
 
-## Donation
+## Donations
 
 If you like the project, you have money and want to help them continue the project, donate to them, [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Patron](https://www.patreon.com/OhMyGuus).

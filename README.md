@@ -45,7 +45,7 @@ A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with imp
 
 ## Installation
 
-Enter this link: http://bit.ly/bettercrewlinkdownload and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
+[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
 
 ## Possible Questions
 
@@ -53,10 +53,10 @@ Enter this link: http://bit.ly/bettercrewlinkdownload and go to the Downloads se
   * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
 * P: Is BetterCrewLink a virus?
-  * A: No, Windows ends up kind of "blocking'' the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, open the site https://www.virustotal.com/ and place the BetterCrewLink file, so it will do a scan of the file with ''all'' antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
+  * A: No, Windows ends up kind of "blocking'' the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with ''all'' antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
 * P: How to use BetterCrewLink Mobile?
-  * A: You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the Play Store: http://bit.ly/bettercrewlinkmobile
+  * A: You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)
 
 * P: Can I play with my CrewLink friend with BetterCrewLink?
   * A: Yes, as long as you are on the same server.

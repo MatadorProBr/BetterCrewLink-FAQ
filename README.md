@@ -111,7 +111,8 @@ Please re-open CrewLink as Administrator.
 Need help? Get support
   * A: Right click on the BetterCrewLink icon and then wait a while and a screen will appear with two options "Yes" and "No" you click Yes and that's it, now BetterCrewLink will work normally (whenever you open BetterCrewLink, you will have to do this step, otherwise it will be giving the error again)
 
-(Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if it doesn't, disable some settings in the BETA / DEBUG category, if that also doesn't work, go to a PC parts store and buy a better CPU, so I'm sure your problem will be solved :D)
+* P: Why are robotic voices still going on? 
+  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category, if that also doesn't work, go to a PC parts store and buy a better CPU..
 
 ## Donations
 

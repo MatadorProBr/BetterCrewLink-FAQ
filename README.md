@@ -46,7 +46,7 @@
 * [Donations](#donations)
 
 ## About the Project
-A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA (via app) and more.
+A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA ([via app](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)) and more.
 
 ## Extra features in this fork
 ```

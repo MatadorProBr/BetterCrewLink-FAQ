@@ -13,6 +13,7 @@
 * [Extra features in this fork](#extra-features-in-this-fork)
 * [Installation](#installation)
 * [Possible Questions](#possible-questions)
+* [Donation](#donation)
 
 ## About the Project
 A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA (via app) and more.
@@ -47,15 +48,15 @@ A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with imp
 
 **PC:**
 
-[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
+[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program).
 
 **Android:**
 
-You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)
+You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
 
 **iOS:**
 
-For now there is no support for iOS, but you can bring support for iOS, but the project needs $ 100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping donate by [clicking here](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) (for now you can only donate via PayPal)
+For now there is no support for iOS, but you can bring support for iOS, but the project needs $100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Patreon](https://patreon.com/OhMyGuus).
 
 
 ## Possible Questions
@@ -64,12 +65,16 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
   * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
 * P: Is BetterCrewLink a virus?
-  * A: No, Windows ends up kind of "blocking'' the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with ''all'' antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
+  * A: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
 * P: How to use BetterCrewLink Mobile?
-  * A: You will need a person using BetterCrewLink on the PC and with the ''Mobile Host'' option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)
+  * A: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
 
 * P: Can I play with my CrewLink friend with BetterCrewLink?
   * A: Yes, as long as you are on the same server.
 
 (Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if it doesn't solve disable VAD in settings, if that doesn't work too buy a better CPU)
+
+## Donation
+
+If you like the project, you have money and want to help them continue the project, donate to them, [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Patron](https://www.patreon.com/OhMyGuus).

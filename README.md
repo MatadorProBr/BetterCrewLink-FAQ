@@ -1,11 +1,12 @@
 <br />
 <p align="center">
-  <a href="https://github.com/OhMyGuus/BetterCrewLink">
+  <a href="https://github.com/ottomated/CrewLink">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with extra features & better support
+  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with extra features & better support</h3>
 
- <p align="center">
+
+  <p align="center">
     Free, open, Among Us proximity voice chat.
     <br />
     <a href="https://github.com/OhMyGuus/CrewLink/issues">Report Bug</a>
@@ -26,12 +27,13 @@
   
 <b>Notes:</b><br />
 
-- For problems with this fork, you can send a message on the discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
+ - For problems with this fork, you can send a message on the discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
 
--  To get the most of BetterCrewLink use the voice server`http://bettercrewl.ink`
+ - To get the most of BetterCrewLink use the voice server `https//:bettercrewl.ink`
 
 </p>
 <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
+
 
 
 <!-- TABLE OF CONTENTS -->

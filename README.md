@@ -5,6 +5,34 @@
   </a>
   <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with extra features & better support
 
+ <p align="center">
+    Free, open, Among Us proximity voice chat.
+    <br />
+    <a href="https://github.com/OhMyGuus/CrewLink/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/OhMyGuus/CrewLink/issues">Request Feature</a>
+    ·
+    <a href="#installation"><b>Installation Instructions</b></a>
+  </p>
+  <p align="center">
+    <b><a href="https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ">Donate to BetterCrewLink</a></b></br>
+  (all donations will be used for the apple developer license and extra servers)</br>
+   <b><a href="https://paypal.me/ottomated">Donate to ottomated (offical CrewLink)</a></b>
+  </p>
+</p>
+<hr />
+
+<p>
+  
+<b>Notes:</b><br />
+
+- For problems with this fork, you can send a message on the discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
+
+-  To get the most of BetterCrewLink use the voice server`http://bettercrewl.ink`
+
+</p>
+<a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -43,6 +71,7 @@ A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with imp
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
 - Support for mobile (BETA)
 ```
+
 
 ## Installation
 

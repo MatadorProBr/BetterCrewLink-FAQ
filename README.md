@@ -96,29 +96,29 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 
 ## Possible Questions
 
-* P: How it works?
+* Q: How it works?
   * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
-* P: Is BetterCrewLink a virus?
+* Q: Is BetterCrewLink a virus?
   * A: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
-* P: How to use BetterCrewLink Mobile?
+* Q: How to use BetterCrewLink Mobile?
   * A: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
 
-* P: Can I play with my CrewLink friend with BetterCrewLink?
+* Q: Can I play with my CrewLink friend with BetterCrewLink?
   * A: Yes, as long as you are on the same server.
   
-* P: How to resolve this error: ERROR
+* Q: How to resolve this error: ERROR
 Couldn't connect to Among Us.
 Please re-open CrewLink as Administrator.
 
 Need help? Get support
   * A: Right click on the BetterCrewLink icon and then wait a while and a screen will appear with two options "Yes" and "No" you click Yes and that's it, now BetterCrewLink will work normally (whenever you open BetterCrewLink, you will have to do this step, otherwise it will be giving the error again)
 
-* P: Does BetterCrewLink update whenever there is an update?
+* Q: Does BetterCrewLink update whenever there is an update?
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
 
-* P: Why are robotic voices still going on? 
+* Q: Why are robotic voices still going on? 
   * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category, if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
 
 ## Donations

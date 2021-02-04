@@ -13,7 +13,7 @@
     ·
   <a href="https://github.com/OhMyGuus/CrewLink/issues">Request Feature</a>
     ·
-    <a href="#installation"><b>Installation Instructions</b></a>
+    <a href="#installation">Installation Instructions</a>
   </p>
   <p align="center">
     <b><a href="https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ">Donate to BetterCrewLink</a></b></br>
@@ -104,6 +104,9 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 
 * Q: How to use BetterCrewLink Mobile?
   * A: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
+
+* Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Pirate versions?
+  * A: Yes.
 
 * Q: Can I play with my CrewLink friend with BetterCrewLink?
   * A: Yes, as long as you are on the same server.

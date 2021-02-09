@@ -29,7 +29,7 @@
 
  - For problems with this fork, you can send a message on the discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
 
- - To get the most of BetterCrewLink use the voice server `https://bettercrewl.ink`
+ - To get the most of BetterCrewLink use the voice server: `https://bettercrewl.ink`
 
 </p>
 <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>

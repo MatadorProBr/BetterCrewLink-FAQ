@@ -18,7 +18,7 @@
   <p align="center">
     <b><a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#donations">Donate to BetterCrewLink</a></b></br>
   (all donations will be used for the apple developer license and extra servers)</br>
-    ·
+    <br />
    <b><a href="https://paypal.me/ottomated">Donate to ottomated (offical CrewLink)</a></b>
   </p>
 </p>

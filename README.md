@@ -3,7 +3,7 @@
   <a href="https://github.com/OhMyGuus/BetterCrewLink">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#extra-features-in-this-fork">extra features</a> & <a href="https://better support</h3></a>
+  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#extra-features-in-this-fork">extra features</a> & <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#-bettercrewlink-a-crewlink-fork-with-extra-features------free-open-among-us-proximity-voice-chat--------report-bug------request-feature--------installation-instructions--------donate-to-bettercrewlink--all-donations-will-be-used-for-the-apple-developer-license-and-extra-servers-----donate-to-ottomated-offical-crewlink--notesfor-problems-with-this-fork-you-can-send-a-message-on-the-discord-thaguus2140---owner-of-bettercrewlink-and-he-will-do-his-best-to-resolve-itto-get-the-most-of-bettercrewlink-use-the-voice-server-httpsbettercrewlink--"> better support</h3></a>
 
 
   <p align="center">

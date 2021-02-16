@@ -3,7 +3,7 @@
   <a href="https://github.com/OhMyGuus/BetterCrewLink">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with extra features & better support</h3>
+  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with <a href="https://git">extra features & better support</h3>
 
 
   <p align="center">

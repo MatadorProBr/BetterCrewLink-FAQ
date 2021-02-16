@@ -73,6 +73,7 @@ A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with imp
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
 - Support for mobile (BETA)
 ```
+If you want to suggest something that could be added, talk to the owner of BetterCrewLink via Discord: ThaGuus#2140
 
 
 ## Installation

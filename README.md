@@ -1,3 +1,5 @@
+[![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url] [![Donate][paypal-shield]](paypal-url)
+
 <br />
 <p align="center">
   <a href="https://github.com/OhMyGuus/BetterCrewLink">
@@ -44,7 +46,14 @@
 * [Extra features in this fork](#extra-features-in-this-fork)
 * [Installation](#installation)
 * [Possible Questions](#possible-questions)
+* [Create a Server](#create-a-server)
+* [Development](#development)
+  * [Prerequisites](#prerequisites)
+  * [Setup](#setup)
+* [Contributing](#contributing)
 * [Donations](#donations)
+* [Informations](#informations)
+* [License](#license)
 
 ## About the Project
 A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA ([via app](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)) and more.
@@ -127,6 +136,68 @@ Need help? Get support
 * Q: Why are robotic voices still going on? 
   * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category, if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
 
+## Create a Server
+
+See [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server) to learn how to create a BetterCrewLink server (creating a server using BetterCrewLink code instead of CrewLink will bring a lot more support to BetterCrewLink and the server will also work with normal people using CrewLink)
+
+## Development
+
+You only need to follow the below instructions if you are trying to modify this software. Otherwise, please download the latest version from the [github releases](https://github.com/OhMyGuus/BetterCrewLink/releases).
+
+Server code is located at [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server). Please use a local server for development purposes.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* [Python](https://www.python.org/downloads/)
+* [node.js](https://nodejs.org/en/download/)
+* yarn
+```sh
+npm install yarn -g
+```
+
+### Setup
+
+1. Clone the repo
+```sh
+git clone https://github.com/OhMyGuus/BetterCrewLink.git
+cd CrewLink
+```
+2. Install NPM packages
+```sh
+yarn install
+```
+3. Run the project
+```JS
+yarn dev
+```
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 ## Donations
 
 If you like the project, you have money and want to help them continue the project, donate to them, [donate via Patron](https://www.patreon.com/OhMyGuus), [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Buy Me a Coffee](https://www.buymeacoffee.com/OhMyGuus).
+
+## Informations
+
+The voice proximity chat was originally done by [CrewLink](https://github.com/ottomated/CrewLink) - [ottomatted](https://github.com/ottomated) but was modified by [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - [OhMyGuus](https://github.com/OhMyGuus) with improvements, features and others, this FAQ was made by a user or a fan of the project, the FAQ is not official and any questions you have between on the BetterCrewLink Discord to ask for support, this FAQ was made to help people searching on GitHub how to use a voice proximity chat (since the BetterCrewLink fork does not appear) and I had no intention of plagiarizing anything from BetterCrewLink and also all the information was taken from there and all links are official from BetterCrewLink/CrewLink.
+
+## License
+
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+
+[license-shield]: https://img.shields.io/github/license/OhMyGuus/BetterCrewLink.svg?style=flat-square
+[license-url]: https://github.com/OhMyGuus/BetterCrewLink/blob/master/LICENSE
+[appveyor-shield]: https://img.shields.io/appveyor/build/OhMyGuus/bettercrewlink
+[appveyor-url]: https://ci.appveyor.com/project/OhMyGuus/bettercrewlink
+[paypal-url]: https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ
+[paypal-shield]: https://img.shields.io/badge/Donate-PayPal-green.svg

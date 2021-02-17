@@ -188,7 +188,7 @@ Any contributions you make are greatly appreciated.
 
 ## Donations
 
-If you like the project, you have money and want to help them continue the project, donate to them, [donate via Patron](https://www.patreon.com/OhMyGuus), [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Buy Me a Coffee](https://www.buymeacoffee.com/OhMyGuus).
+If you like the project, you have money and want to help them continue the project, donate to them, [donate via Patreon](https://www.patreon.com/OhMyGuus), [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Buy Me a Coffee](https://www.buymeacoffee.com/OhMyGuus).
 
 ## Informations
 

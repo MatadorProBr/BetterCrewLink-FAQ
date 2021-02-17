@@ -202,7 +202,7 @@ The voice proximity chat was originally done by [CrewLink](https://github.com/ot
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 [license-shield]: https://img.shields.io/github/license/OhMyGuus/BetterCrewLink.svg?style=flat-square
-[license-url]: https://github.com/OhMyGuus/BetterCrewLink/blob/master/LICENSE
+[license-url]: https://github.com/MatadorProBr/BetterCrewLink-FAQ/blob/master/LICENSE
 [appveyor-shield]: https://img.shields.io/appveyor/build/OhMyGuus/bettercrewlink
 [appveyor-url]: https://ci.appveyor.com/project/OhMyGuus/bettercrewlink
 [paypal-url]: https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ

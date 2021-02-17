@@ -56,7 +56,10 @@
 * [License](#license)
 
 ## About the Project
-A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA ([via app](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)) and more.
+
+CrewLink: This project implements proximity voice chat in Among Us. Everyone in an Among Us lobby with this program running will be able to communicate over voice in-game, with no third-party programs required. Spatial audio ensures that you can only hear people close to you.
+
+BetterCrewLink: A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA ([via app](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)) and more.
 
 ## Extra features in this fork
 ```

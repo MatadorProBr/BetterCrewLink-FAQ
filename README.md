@@ -119,7 +119,7 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 * Q: How to use BetterCrewLink Mobile?
   * A: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
 
-* Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Pirate versions?
+* Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
   * A: Yes.
 
 * Q: Can I play with my CrewLink friend with BetterCrewLink?

@@ -97,11 +97,11 @@ If you want to suggest something that could be added, talk to the owner of Bette
 
 or 
 
-Use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled)
+Use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled) in my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
 
 **Android:**
 
-You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
+You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app) and when you open the application, allow the permissions it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
 
 **iOS:**
 
@@ -109,7 +109,7 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 or
 
-Use a Web version (until they get $100 to put the app on the App Store): https://web.bettercrewl.ink
+Use a Web version (until they get $100 to put the app on the App Store): https://web.bettercrewl.ink and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
 
 
 ## Possible Questions

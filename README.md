@@ -93,7 +93,11 @@ If you want to suggest something that could be added, talk to the owner of Bette
 
 **PC:**
 
-[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program), or use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled)
+[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
+
+or 
+
+Use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled)
 
 **Android:**
 

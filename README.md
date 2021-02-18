@@ -126,7 +126,7 @@ Use a Web version (until they get $100 to put the app on the App Store): <a href
   * A: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
 
 * Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
-  * A: Yes.
+  * A: Yes, but if you use a cracked version, please buy the game and help the developers of Among Us, it costs only $5 and if you use a cracked version know that this is illegal and has a high chance of you being arrested using cracked versions of Among Us.
 
 * Q: Can I play with my CrewLink friend using the BetterCrewLink?
   * A: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.

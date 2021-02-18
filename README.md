@@ -93,7 +93,7 @@ If you want to suggest something that could be added, talk to the owner of Bette
 
 **PC:**
 
-[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program)
+[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program), or use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled)
 
 **Android:**
 
@@ -105,7 +105,7 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 or
 
-Use a Web version (until they get $100 to put the app on the App Store): https://web.bettercrewl.ink/
+Use a Web version (until they get $100 to put the app on the App Store): https://web.bettercrewl.ink
 
 
 ## Possible Questions
@@ -123,7 +123,7 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
   * A: Yes.
 
 * Q: Can I play with my CrewLink friend with BetterCrewLink?
-  * A: Yes, as long as you are on the same server.
+  * A: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.
 
 * Can I play on a BetterCrewLink server using CrewLink?
   * Yes, the server works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.

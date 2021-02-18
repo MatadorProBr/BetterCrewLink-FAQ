@@ -5,20 +5,20 @@
   <a href="https://github.com/OhMyGuus/BetterCrewLink">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#extra-features-in-this-fork">extra features</a> & <a href="https://discord.gg/qDqTzvj4SH"> better support</h3></a>
+  <h3 align="center"> <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a> a <a href="https://github.com/ottomated/CrewLink">CrewLink</a> fork with <a href="#extra-features-in-this-fork">extra features</a> & <a href="https://discord.gg/qDqTzvj4SH"> better support</h3></a>
 
 
   <p align="center">
     Free, open, Among Us proximity voice chat.
     <br />
-    <a href="https://github.com/OhMyGuus/CrewLink/issues">Report Bug</a>
+    <a href="https://github.com/OhMyGuus/BetterCrewLink/issues">Report Bug</a>
     ·
-  <a href="https://github.com/OhMyGuus/CrewLink/issues">Request Feature</a>
+  <a href="https://github.com/OhMyGuus/BetterCrewLink/pulls">Request Feature</a>
     ·
     <a href="#installation">Installation Instructions</a>
   </p>
   <p align="center">
-    <b><a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ#donations">Donate to BetterCrewLink</a></b></br>
+    <b><a href="#donations">Donate to BetterCrewLink</a></b></br>
   (all donations will be used for the apple developer license and extra servers)</br>
   <br />
    <b><a href="https://paypal.me/ottomated">Donate to ottomated (offical CrewLink)</a></b>

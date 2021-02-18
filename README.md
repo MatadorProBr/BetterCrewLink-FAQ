@@ -30,7 +30,7 @@
   
 <b>Notes:</b><br />
 
- - For problems with this fork, you can send a message on the discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
+ - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
 
  - To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
@@ -147,7 +147,7 @@ Need help? Get support
 
 or
 
-to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility, then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink.
+to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility", then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink.
 
 * Q: Does BetterCrewLink update whenever there is an update?
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.

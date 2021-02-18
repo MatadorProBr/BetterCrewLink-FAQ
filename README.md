@@ -125,6 +125,9 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 * Q: Can I play with my CrewLink friend with BetterCrewLink?
   * A: Yes, as long as you are on the same server.
 
+* Can I play on a BetterCrewLink server using CrewLink?
+  * Yes, the server works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
+
 * Q: How to resolve this error: 
 ERROR
 Couldn't connect to Among Us.

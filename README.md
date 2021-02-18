@@ -128,11 +128,11 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 * Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
   * A: Yes.
 
-* Q: Can I play with my CrewLink friend with BetterCrewLink?
+* Q: Can I play with my CrewLink friend using the BetterCrewLink?
   * A: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.
 
-* Can I play on a BetterCrewLink server using CrewLink?
-  * Yes, the server works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
+* Can I play on a BetterCrewLink server using CrewLink or vice versa?
+  * Yes, the servers works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
 
 * Q: How to resolve this error: 
 ERROR
@@ -168,8 +168,8 @@ Server code is located at [OhMyGuus/BetterCrewLink-server](https://github.com/Oh
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* [Python](https://www.python.org/downloads/)
-* [node.js](https://nodejs.org/en/download/)
+* [Python](https://www.python.org/downloads)
+* [node.js](https://nodejs.org/en/download)
 * yarn
 ```sh
 npm install yarn -g

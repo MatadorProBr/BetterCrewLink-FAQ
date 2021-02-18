@@ -97,7 +97,9 @@ If you want to suggest something that could be added, talk to the owner of Bette
 
 or 
 
-Use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled) in my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
+Use a web version: https://web.bettercrewl.ink (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled) 
+
+In my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
 
 **Android:**
 

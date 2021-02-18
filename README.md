@@ -136,11 +136,18 @@ Use a Web version (until they get $100 to put the app on the App Store): https:/
 
 * Q: How to resolve this error: 
 ERROR
+
 Couldn't connect to Among Us.
+
 Please re-open CrewLink as Administrator.
+
 Need help? Get support
 
   * A: Right click on the BetterCrewLink icon and then wait a while and a screen will appear with two options "Yes" and "No" you click Yes and that's it, now BetterCrewLink will work normally (whenever you open BetterCrewLink, you will have to do this step, otherwise it will be giving the error again)
+
+or
+
+to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility, then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink.
 
 * Q: Does BetterCrewLink update whenever there is an update?
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.

@@ -111,7 +111,7 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 or
 
-Use a Web version (until they get $100 to put the app on the App Store): <a href="https://bettercrewl.ink">`https://web.bettercrewl.ink`</a> and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
+Use a Web version (until they get $100 to put the app on the App Store): <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
 
 
 ## Possible Questions

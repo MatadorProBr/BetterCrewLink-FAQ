@@ -97,13 +97,13 @@ If you want to suggest something that could be added, talk to the owner of Bette
 
 or 
 
-Use a web version: <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled) 
+Use a web version: <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> (remember that you will need someone in the room to have the BetterCrewLink application installed on the PC, it must be on the PC with the "Mobile Host" option enabled (the web version only works with official CrewLink server: <a href="https://crewl.ink">``https://crewl.ink``</a>, it cannot be any other than the official server one <a href="https://crewl.ink">``https://crewl.ink``</a>, the official BetterCrewLink server: <a href="https://bettercrewl.ink">``https://bettercrewl.ink``</a> and the others that use the project [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server)).
 
 In my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
 
 **Android:**
 
-You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app) and when you open the application, allow the permissions it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
+You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app) and when you open the application, allow the permissions it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it (remember that the mobile app only supports ``https://`` servers that don't have ``https://`` won't work for the mobile version).
 
 **iOS:**
 
@@ -111,22 +111,22 @@ For now there is no support for iOS, but you can bring support for iOS, but the 
 
 or
 
-Use a Web version (until they get $100 to put the app on the App Store): <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it.
+Use a Web version (until they get $100 to put the app on the App Store): <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it (the web version only works with official CrewLink server: <a href="https://crewl.ink">``https://crewl.ink``</a>, it cannot be any other than the official server one <a href="https://crewl.ink">``https://crewl.ink``</a>, the official BetterCrewLink server: <a href="https://bettercrewl.ink">``https://bettercrewl.ink``</a> and the others that use the project [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server)).
 
 
 ## Possible Questions
 
 * Q: How it works?
-  * R: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
+  * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
 * Q: Is BetterCrewLink a virus?
-  * R: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
+  * A: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
 * Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
-  * R: Yes, but if you use a cracked version, please buy the game and help the developers of Among Us, it costs only $5 and if you use a cracked version know that this is illegal and has a high chance of you being arrested using cracked versions of Among Us.
+  * A: Yes, but if you use a cracked version, please buy the game and help the developers of Among Us, it costs only $5 and if you use a cracked version know that this is illegal and has a high chance of you being arrested using cracked versions of Among Us.
 
 * Q: Can I play with my CrewLink friend using the BetterCrewLink?
-  * R: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.
+  * A: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.
 
 * Q: Can I play on a BetterCrewLink server using CrewLink or vice versa?
   * R: Yes, the servers works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
@@ -140,20 +140,20 @@ Please re-open CrewLink as Administrator.
 
 Need help? Get support
 
-  * R: Right click on the BetterCrewLink icon and then wait a while and a screen will appear with two options "Yes" and "No" you click Yes and that's it, now BetterCrewLink will work normally (whenever you open BetterCrewLink, you will have to do this step, otherwise it will be giving the error again)
+  * A: Right click on the BetterCrewLink icon and then wait a while and a screen will appear with two options "Yes" and "No" you click Yes and that's it, now BetterCrewLink will work normally (whenever you open BetterCrewLink, you will have to do this step, otherwise it will be giving the error again)
 
 or
 
 to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility", then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink.
 
 * Q: Why can't I hear anyone or some people?
-  * R: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
+  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
 
 * Q: Does BetterCrewLink update whenever there is an update?
-  * R: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
+  * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
 
 * Q: Why are robotic voices still going on? 
-  * R: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
+  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
 
 ## Create a Server
 

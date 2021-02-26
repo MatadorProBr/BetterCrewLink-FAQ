@@ -122,9 +122,6 @@ Use a Web version (until they get $100 to put the app on the App Store): <a href
 * Q: Is BetterCrewLink a virus?
   * R: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
-* Q: How to use BetterCrewLink Mobile?
-  * R: You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app).
-
 * Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
   * R: Yes, but if you use a cracked version, please buy the game and help the developers of Among Us, it costs only $5 and if you use a cracked version know that this is illegal and has a high chance of you being arrested using cracked versions of Among Us.
 

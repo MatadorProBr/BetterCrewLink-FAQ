@@ -215,7 +215,7 @@ The voice proximity chat was originally done by [CrewLink](https://github.com/ot
 
 ## License
 
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0. See <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ/blob/bettercrewlink-faq/LICENSE">`LICENSE`</a> for more information.
 
 [license-shield]: https://img.shields.io/github/license/OhMyGuus/BetterCrewLink.svg?style=flat-square
 [license-url]: https://github.com/MatadorProBr/BetterCrewLink-FAQ/blob/main/LICENSE

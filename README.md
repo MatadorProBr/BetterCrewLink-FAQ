@@ -155,6 +155,15 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 * Q: Why are robotic voices still going on? 
   * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
 
+## Upcoming Features
+
+~~- Obs overlay~~ (has already been placed on BetterCrewLink)
+- Better mobile support
+~~- Can hear through cams~~ (has already been placed on BetterCrewLink)
+~~- No talking through walls~~ (has already been placed on BetterCrewLink)
+- Community servers list in app
+- IOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for OhMyGuus to start creating an iOS version)
+
 ## Create a Server
 
 See [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server) to learn how to create a BetterCrewLink server (creating a server using BetterCrewLink code instead of CrewLink will bring a lot more support to BetterCrewLink and the server will also work with normal people using CrewLink)

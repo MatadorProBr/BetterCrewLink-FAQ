@@ -158,17 +158,17 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 
 ## Upcoming Features
 
-~~Obs overlay~~ (has already been placed on BetterCrewLink)
+* ~~Obs overlay~~ (has already been placed on BetterCrewLink)
 
-Better mobile support
+* Better mobile support
 
-~~Can hear through cams~~ (has already been placed on BetterCrewLink)
+* ~~Can hear through cams~~ (has already been placed on BetterCrewLink)
 
-~~No talking through walls~~ (has already been placed on BetterCrewLink)
+* ~~No talking through walls~~ (has already been placed on BetterCrewLink)
 
-Community servers list in app
+* Community servers list in app
 
-iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for OhMyGuus to start creating an iOS version)
+* iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for OhMyGuus to start creating an iOS version)
 
 ## Create a Server
 

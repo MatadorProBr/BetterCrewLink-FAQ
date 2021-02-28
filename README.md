@@ -150,11 +150,15 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 * Q: Why can't I hear anyone or some people?
   * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
 
+* Q: Why are robotic voices still going on? 
+  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
+
 * Q: Does BetterCrewLink update whenever there is an update?
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
 
-* Q: Why are robotic voices still going on? 
-  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
+* Q: How can I put the BetterCrewLink overlay on my OBS Studio/StreamLabs/other screen recorder programs?
+ * A: ![obs-overlay.png](Images-Videos/obs-overlay.png)
+*(if the image is small, click on it)*
 
 ## Upcoming Features
 

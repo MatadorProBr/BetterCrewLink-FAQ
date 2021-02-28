@@ -145,7 +145,13 @@ Need help? Get support
 
 or
 
-to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility", then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink.
+to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility", then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink, but if the problem continues, try to follow these steps: 
+
+`A) If you get the administrator message without the game running -> The game hasn't closed correctly go to your desktop do ALT+F4 and click shutdown and restart your pc that way.
+
+B) You get the administrator message after you launched the game -> You started Steam by accident as admin close Steam fully using task manager and start it again and make sure you don't start it as admin.`
+
+Watch this video for a better understanding, (but instead of doing it on CrewLink, you’ll do it on BetterCrewLink): https://youtu.be/CoUtc5WyALE
 
 * Q: Why can't I hear anyone or some people?
   * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
@@ -157,7 +163,7 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
 
 * Q: How can I put the BetterCrewLink overlay on my OBS Studio/StreamLabs/other screen recorder programs?
- * A: ![obs-overlay.png](Images-Videos/obs-overlay.png)
+ * A: ![obs-overlay.png](Images-Videos/obs-overlay.png "BetterCrewLink - OBS Overlay")
 *(if the image is small, click on it)*
 
 ## Upcoming Features

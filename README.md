@@ -147,9 +147,9 @@ or
 
 to facilitate this, right-click on BetterCrewLink, click on "Properties", click on "Compatibility", then on "Run this program as administrator" or something like that, check the option and then just click on "Apply" and "Ok" and ready, whenever you open BetterCrewLink it will ask for administrator permission (much easier than every time having to press the right button and then "Run as administrator") then just click "Yes" every time you open BetterCrewLink, but if the problem continues, try to follow these steps: 
 
-`A) If you get the administrator message without the game running -> The game hasn't closed correctly go to your desktop do ALT+F4 and click shutdown and restart your pc that way.
+`A) If you get the administrator message without the game running -> The game hasn't closed correctly go to your desktop do ALT+F4 and click shutdown and restart your pc that way.`
 
-B) You get the administrator message after you launched the game -> You started Steam by accident as admin close Steam fully using task manager and start it again and make sure you don't start it as admin.`
+`B) You get the administrator message after you launched the game -> You started Steam by accident as admin close Steam fully using task manager and start it again and make sure you don't start it as admin.`
 
 Watch this video for a better understanding, (but instead of doing it on CrewLink, you’ll do it on BetterCrewLink): https://youtu.be/CoUtc5WyALE
 

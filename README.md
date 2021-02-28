@@ -30,7 +30,7 @@
   
 <b>Notes:</b><br />
 
- - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner of BetterCrewLink) and he will do his best to resolve it.
+ - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink) and he will do his best to resolve it.
 
  - To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
@@ -87,7 +87,7 @@
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
 - Support for mobile (BETA)
 ```
-If you want to suggest something that could be added, talk to the owner of BetterCrewLink via Discord: ThaGuus#2140
+If you want to suggest something that could be added, talk to the owner and developer of BetterCrewLink via Discord: ThaGuus#2140
 
 
 ## Installation
@@ -168,7 +168,7 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 
 * Community servers list in app
 
-* iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for OhMyGuus to start creating an iOS version)
+* iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for [OhMyGuus](https://github.com/OhMyGuus) - owner and developer of BetterCrewLink) to start creating an iOS version)
 
 ## Create a Server
 

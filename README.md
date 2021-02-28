@@ -168,7 +168,7 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 
 * Community servers list in app
 
-* iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for [OhMyGuus](https://github.com/OhMyGuus) - owner and developer of BetterCrewLink) to start creating an iOS version)
+* iOS support ($100 developer license) (the $100 target for the iOS app has been hit, now we have to wait for [OhMyGuus](https://github.com/OhMyGuus) - owner and developer of BetterCrewLink to start creating an iOS version)
 
 ## Create a Server
 

@@ -166,6 +166,8 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
  * A: ![obs-overlay.png](Images-Videos/obs-overlay.png "BetterCrewLink - OBS Overlay")
 *(if the image is small, click on it)*
 
+**WARNING: other screen recorder programs that does not have the "Browser" option, OBS Overlay will not work, because you need to put the link for OBS Overlay to work, I recommend that you use <a href="https://obsproject.com/download">OBS Studio</a> or <a href="https://streamlabs.com">Streamlabs</a>, they are the recorders most used by people and also they come with the "Browser" function.**
+
 ## Upcoming Features
 
 * ~~Obs overlay~~ (has already been placed on BetterCrewLink)

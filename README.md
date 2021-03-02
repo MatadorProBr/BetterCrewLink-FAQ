@@ -30,7 +30,7 @@
   
 <b>Notes:</b><br />
 
- - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink) and he will do his best to resolve it, do not ask for help to the official CrewLink server as this is a fork and they will not support you, just use these two means of support and not the official CrewLink Server.
+ - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork and they will not support you, just use these three methods above if you need any help.
 
  - To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 

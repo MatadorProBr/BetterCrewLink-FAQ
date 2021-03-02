@@ -154,7 +154,7 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 Watch this video for a better understanding, (but instead of doing it on CrewLink, you’ll do it on BetterCrewLink): https://youtu.be/CoUtc5WyALE
 
 * Q: Why can't I hear anyone or some people?
-  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
+  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category or open your NAT in your config router (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
 
 * Q: Why are robotic voices still going on? 
   * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
@@ -167,6 +167,11 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 *(if the image is small, click on it)*
 
 **WARNING: other screen recorder programs that does not have the "Browser" option, OBS Overlay will not work, because you need to put the link for OBS Overlay to work, I recommend that you use <a href="https://obsproject.com/download">OBS Studio</a> or <a href="https://streamlabs.com">Streamlabs</a>, they are the recorders most used by people and also they come with the "Browser" function.**
+
+* Q: Any BetterCrewLink Discord so I can ask for help with something?
+ * A: Yes and he and the Official Discord of BetterCrewLink, if you want to enter click on the image below:
+  </p>
+  <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
 
 ## Upcoming Features
 
@@ -242,7 +247,7 @@ The voice proximity chat was originally done by [CrewLink](https://github.com/ot
 
 ## License
 
-Distributed under the GNU General Public License v3.0. See <a href="https://github.com/MatadorProBr/BetterCrewLink-FAQ/blob/bettercrewlink-faq/LICENSE">`LICENSE`</a> for more information.
+Distributed under the GNU General Public License v3.0. See <a href="https://github.com/OhMyGuus/BetterCrewLink/blob/nightly/LICENSE">`LICENSE`</a> for more information.
 
 [license-shield]: https://img.shields.io/github/license/OhMyGuus/BetterCrewLink.svg?style=flat-square
 [license-url]: https://github.com/MatadorProBr/BetterCrewLink-FAQ/blob/main/LICENSE

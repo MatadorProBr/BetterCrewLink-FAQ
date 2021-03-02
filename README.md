@@ -123,7 +123,7 @@ Use a Web version (until they get $100 to put the app on the App Store): <a href
   * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.
 
 * Q: Is BetterCrewLink a virus?
-  * A: No, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
+  * A: No, many people use BetterCrewLink as YouTubers and Streamers and as a fan of the project I say that it is totally safe, Windows ends up kind of "blocking" the file because its script is used a lot in viruses to destroy your PC, if you still aren't convinced, [click here](https://www.virustotal.com/) and place the BetterCrewLink file, so it will do a scan of the file with "all" antivirus (some antivirus will say it is a trojan or something, but as I said this script is used a lot in common with viruses)
 
 * Q: Does BetterCrewLink work with Steam, Microsoft Store, Epic Game and Cracked versions?
   * A: Yes, but if you use a cracked version, please buy the game and help the developers of Among Us, it costs only $5 and if you use a cracked version know that this is illegal and has a high chance of you being arrested using cracked versions of Among Us.

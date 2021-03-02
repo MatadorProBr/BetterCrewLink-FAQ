@@ -168,7 +168,7 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 
 **WARNING: other screen recorder programs that does not have the "Browser" option, OBS Overlay will not work, because you need to put the link for OBS Overlay to work, I recommend that you use <a href="https://obsproject.com/download">OBS Studio</a> or <a href="https://streamlabs.com">Streamlabs</a>, they are the recorders most used by people and also they come with the "Browser" function.**
 
-* Q: Any BetterCrewLink Discord so I can ask for help with something?
+* Q: Do you have a BetterCrewLink Discord so I can ask for help with something?
  * A: Yes and he and the Official Discord of BetterCrewLink, if you want to enter click on the image below:
   </p>
   <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>

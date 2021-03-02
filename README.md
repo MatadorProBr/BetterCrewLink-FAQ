@@ -62,7 +62,7 @@
 
 **BetterCrewLink:** A modified version of [CrewLink](https://github.com/ottomated/CrewLink) with improved things such as: optimizations for CPU (solves robotic voices), more settings (listening to people on the cameras), support for mobile BETA ([via app](https://play.google.com/store/apps/details?id=io.bettercrewlink.app)) and more.
 
-## Extra features in this fork
+## Extra features/bug fixes in this fork
 ```
 - OBS browsersource overlay.
 - Hear people in vision only.

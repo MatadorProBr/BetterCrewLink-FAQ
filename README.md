@@ -96,7 +96,7 @@ If you want to suggest something that could be added, talk to the owner and deve
 
 **PC:**
 
-[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on Download from Github or Download from mirror (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
+[Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on "Download from Github" or "Download from mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
 
 or 
 

@@ -45,9 +45,9 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Extra features in this fork](#extra-features-in-this-fork)
+* [Extra features/bug fixes in this fork](#extra-features-in-this-fork)
 * [Installation](#installation)
-* [Possible Questions](#possible-questions)
+* [Possible Questions - FAQ](#possible-questions-faq)
 * [Upcoming Features](#upcoming-features)
 * [Create a Server](#create-a-server)
 * [Development](#development)
@@ -117,7 +117,7 @@ or
 Use a Web version (until they get $100 to put the app on the App Store): <a href="https://web.bettercrewl.ink">`https://web.bettercrewl.ink`</a> and when you open the website, allow the permission of the microphone it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it (the web version only works with official CrewLink server: <a href="https://crewl.ink">`https://crewl.ink`</a>, it cannot be any other than the official server one <a href="https://crewl.ink">`https://crewl.ink`</a>, the official BetterCrewLink server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a> and the others that use the project [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server)).
 
 
-## Possible Questions
+## Possible Questions - FAQ
 
 * Q: How it works?
   * A: BetterCrewLink looks at your Among Us memory RAM to get data from your location and with that sends it to the server and the server sends the voice to others who are close to you.

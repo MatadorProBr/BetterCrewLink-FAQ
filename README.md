@@ -45,7 +45,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Extra features/bug fixes in this fork](#extra-features/bug-fixes-in-this-fork)
+* [Extra features/bug fixes in this fork](#extra-features-bug-fixes-in-this-fork)
 * [Installation](#installation)
 * [Possible Questions - FAQ](#possible-questions---faq)
 * [Upcoming Features](#upcoming-features)

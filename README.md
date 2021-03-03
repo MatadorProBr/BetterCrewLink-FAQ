@@ -47,7 +47,7 @@
 * [About the Project](#about-the-project)
 * [Extra features/bug fixes in this fork](#extra-features-in-this-fork)
 * [Installation](#installation)
-* [Possible Questions - FAQ](#possible-questions-faq)
+* [Possible Questions - FAQ](#possible-questions---faq)
 * [Upcoming Features](#upcoming-features)
 * [Create a Server](#create-a-server)
 * [Development](#development)

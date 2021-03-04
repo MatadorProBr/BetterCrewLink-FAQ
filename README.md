@@ -171,7 +171,7 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 **WARNING: other screen recorder programs that does not have the "Browser" option, OBS Overlay will not work, because you need to put the link for OBS Overlay to work, I recommend that you use <a href="https://obsproject.com/download">OBS Studio</a> or <a href="https://streamlabs.com">Streamlabs</a>, they are the recorders most used by people and also they come with the "Browser" function.**
 
 * Q: Can I use BetterCrewLink with my Among Us mods?
- * Yes, all mods are compatible with BetterCrewLink (up to 100 players, only one thing is that the more people in the room using BetterCrewLink the more the use of your CPU will increase and you will probably suffer from very strong robotic and locked voices) minus [Among Us: CE](https://gamebanana.com/wips/52892) (Community Edition) for now, because as it uses an old version of Among Us, it cannot recognize it.
+  * Yes, all mods are compatible with BetterCrewLink (up to 100 players, only one thing is that the more people in the room using BetterCrewLink the more the use of your CPU will increase and you will probably suffer from very strong robotic and locked voices) minus [Among Us: CE](https://gamebanana.com/wips/52892) (Community Edition) for now, because as it uses an old version of Among Us, it cannot recognize it.
 
 * Q: Do you have a BetterCrewLink Discord so I can ask for help with something?
   * A: Yes and he and the Official Discord of BetterCrewLink, if you want to enter click on the image below:

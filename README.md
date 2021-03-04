@@ -174,7 +174,7 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
  * Yes, all mods are compatible with BetterCrewLink (up to 100 players, only one thing is that the more people in the room using BetterCrewLink the more the use of your CPU will increase and you will probably suffer from very strong robotic and locked voices) minus [Among Us: CE](https://gamebanana.com/wips/52892) (Community Edition) for now, because as it uses an old version of Among Us, it cannot recognize it.
 
 * Q: Do you have a BetterCrewLink Discord so I can ask for help with something?
- * A: Yes and he and the Official Discord of BetterCrewLink, if you want to enter click on the image below:
+  * A: Yes and he and the Official Discord of BetterCrewLink, if you want to enter click on the image below:
   </p>
   <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
 

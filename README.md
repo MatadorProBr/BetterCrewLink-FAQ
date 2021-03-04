@@ -156,7 +156,10 @@ to facilitate this, right-click on BetterCrewLink, click on "Properties", click 
 Watch this video for a better understanding, (but instead of doing it on CrewLink, you’ll do it on BetterCrewLink): https://youtu.be/CoUtc5WyALE
 
 * Q: Why can't I hear anyone or some people?
-  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category or open your NAT in your config router (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
+  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, make sure that the selected Audio Input is the same as the one you use in the BetterCrewLink settings, but if none of these things work, try to activate NAT Fix in the settings that is in the "Advanced" category or open your NAT in your config router (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application).
+
+* Q: Why can't everyone in the room hear me or can't hear one person or more?
+  * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, try to enable NAT Fix, make sure that the selected Microphone is the same as the one you use in the BetterCrewLink settings, but if none of these things work, verify if "Microphone Sensibility" if it is activated and is at maximum or almost at maximum, if it is, decrease the "Microphone Sensibility" or uncheck the option and it will probably work again.
 
 * Q: Why are robotic voices still going on? 
   * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.

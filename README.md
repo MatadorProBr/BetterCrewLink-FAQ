@@ -30,6 +30,7 @@
   
 ## Notes
 
+**IMPORTANT WARNING: THE NEW UPDATE (v2021.2.21) BROKEN BETTERCREWLINK, SO DON'T UPDATE YOUR AMONG US TO THE VERSION: v2021.2.21 IF YOU WANT TO USE BETTERCREWLINK**
 **BE AWARE THIS IS AN UNOFFICAL FORK OF CREWLINK**
 
  - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork unofficial and they will not support you, just use these three methods above if you need any help.
@@ -93,6 +94,8 @@ If you want to suggest something that could be added, talk to the owner and deve
 
 
 ## Installation
+
+**IMPORTANT WARNING: THE NEW UPDATE (v2021.2.21) BROKEN BETTERCREWLINK, SO DON'T UPDATE YOUR AMONG US TO THE VERSION: v2021.2.21 IF YOU WANT TO USE BETTERCREWLINK**
 
 **PC:**
 

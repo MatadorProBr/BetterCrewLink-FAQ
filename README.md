@@ -30,8 +30,6 @@
   
 ## Notes
 
-**IMPORTANT WARNING: THIS UPDATE WORKS ONLY FOR PEOPLE WHO HAVE AMONG US FROM STEAM AND CRACKED VERSION, IF YOU HAVE ANY OTHER VERSION OTHER THAN THOSE WILL NOT WORK, ONLY IF YOU ARE NOT USING VERSION v2021.2.21 WILL WORK FOR ANY VERSION**
-
 **BE AWARE THIS IS AN UNOFFICAL FORK OF CREWLINK**
 
  - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork unofficial and they will not support you, just use these three methods above if you need any help.
@@ -40,8 +38,6 @@
 
 </p>
 <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
-
-
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -97,11 +93,9 @@ If you want to suggest something that could be added, talk to the owner and deve
 
 ## Installation
 
-**IMPORTANT WARNING: THIS UPDATE WORKS ONLY FOR PEOPLE WHO HAVE AMONG US FROM STEAM AND CRACKED VERSION, IF YOU HAVE ANY OTHER VERSION OTHER THAN THOSE WILL NOT WORK, ONLY IF YOU ARE NOT USING VERSION v2021.2.21 WILL WORK FOR ANY VERSION**
-
 **PC:**
 
-[Click here](https://github.com/MatadorProBr/BetterCrewLink-FAQ/releases/latest) and go to the Downloads section and click on "Download from github" or "Download from mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
+[Click here](https://github.com/MatadorProBr/BetterCrewLink-FAQ/releases/latest) if you use version v2021.2.21s of Among Us or [click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) if you use version v2021.12.9 of Among Us, and go to the Downloads section and click on "Download from GitHub" or "Download from Mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
 
 or 
 

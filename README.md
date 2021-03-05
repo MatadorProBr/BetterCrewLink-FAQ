@@ -77,11 +77,11 @@
 - More fun settings like hearing through cameras.
 - You can actually disable the overlay.
 - 32bit support, windows 7 support.
-- U can change the volume of alive players after u died.
-- U can set BetterCrewLink to topmost.
+- You can change the volume of alive players after u died.
+- You can set BetterCrewLink to topmost.
 - Settings actually sync between players and not half.
 - CPU usage is lower than original CrewLink.
-- U can actually press the mute key/deafen key while clicked on BetterCrewLink.
+- You can actually press the mute key/deafen key while clicked on BetterCrewLink.
 - Your mouse doesn't start to lagg because of the buggy input hook.
 - Changing the speaker setting does actually something unlike original CrewLink where it is always using the default output.
 - Compatible with CrewLink 2.0 
@@ -89,6 +89,7 @@
 - Microphone noise suppression.
 - More overlay positions and you can set the overlay to the top/bottom and you can set it so it shows everyone even when they aren't talking.
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
+- Suport for new version of Among Us (v2021.2.21) (for now only on the version of Steam and cracked)
 - Support for mobile (BETA)
 ```
 If you want to suggest something that could be added, talk to the owner and developer of BetterCrewLink via Discord: ThaGuus#2140

@@ -131,7 +131,7 @@ Use a Web version (until they get $100 to put the app on the App Store): <a href
   * A: Yes, as long as you are on the same server, but if your friend activates a personalized Lobby Settings option that you don’t have in CrewLink, the function will only work for those with BetterCrewLink and for CrewLink users the option will not work, that is my recommendation and that you speak for your friends or people in the room to download BetterCrewLink.
 
 * Q: Can I play on a BetterCrewLink server using CrewLink or vice versa?
-  * R: Yes, the servers works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
+  * A: Yes, the servers works for BetterCrewLink users and with CrewLink users, but it is always recommended that users using the BetterCrewLink server use BetterCrewLink for greater compatibility.
 
 * Q: How to resolve this error: 
 ERROR

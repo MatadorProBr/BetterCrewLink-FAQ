@@ -161,7 +161,7 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
   * A: Check if everyone is using the same server, try pressing Ctrl + R or click on the button next to the settings, try to enable NAT Fix (remember that automatically when you activate the NAT Fix option, if you do not live in Europe you will have a 3 second delay, this applies both to the PC application and to the mobile application), make sure that the selected Microphone is the same as the one you use in the BetterCrewLink settings in the "Audio" category, but if none of these things work, verify if "Microphone Sensibility" if it is activated and is at maximum or almost at maximum, if it is, decrease the "Microphone Sensibility" or uncheck the option and it will probably work again.
 
 * Q: Why are robotic voices still going on? 
-  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU.
+  * A: Most of the time BetterCrewLink solves the problem of robotic voices that happen with the normal CrewLink, if not, disable some settings in the BETA/DEBUG category (mainly the VAD option, it consumes a lot of CPU in BetterCrewLink), if that also doesn't work, close some programs on your PC that consume a lot of CPU, but if that doesn't work either, go to a PC parts store and buy a better CPU or use a version web (requires a PC player using the BetterCrewLink app) for more information on this [click here](#installation) and look at the category "PC".
 
 * Q: Does BetterCrewLink update whenever there is an update?
   * A: Yes, they have an updater that whenever you open the program, it will check for any updates, if there is one it will automatically start updating to the latest version.
@@ -177,6 +177,9 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 
 * Q: Which "Voice Server" is recommended for me to use?
   * A: I recommend that you use: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a> for better compatibility with BetterCrewLink.
+
+* Q: Is BetterCrewLink compatible with Linux/Chromebook/macOS?
+  * A: No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/tree/linux) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#installation) and look at the category "PC".
 
 * Q: Do you have a BetterCrewLink Discord so I can ask for help with something?
   * A: Yes and he and the [Official Discord of BetterCrewLink](https://discord.gg/qDqTzvj4SH), if you want to enter click on the image below:

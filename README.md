@@ -194,8 +194,8 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 
 **Changes & Updates**
 
-* Implemented push to mute (hold the button to mute and release to speak) (thanks to: @JKohlman).
-* Now the volume switchers are more beautiful (thanks to: @JKohlman).
+* Implemented push to mute (hold the button to mute and release to speak) (thanks to: [@JKohlman](https://github.com/JKohlman)).
+* Now the volume switchers are more beautiful ([@JKohlman](https://github.com/JKohlman)).
 * Deafen & undeafen won't frick with the push to talk settings anymore.
 * Added support for custom colors of the mods.
 * Support for new version of Among Us (v2021.3.5).

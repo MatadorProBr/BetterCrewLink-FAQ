@@ -95,7 +95,7 @@ If you want to suggest something that could be added, talk to the owner and deve
 
 **PC:**
 
-[Click here](https://github.com/MatadorProBr/BetterCrewLink-FAQ/releases/latest) if you use version v2021.2.21s of Among Us or [click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) if you use version v2021.12.9 of Among Us, and go to the Downloads section and click on "Download from GitHub" or "Download from Mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
+[Click here](https://github.com/MatadorProBr/BetterCrewLink-FAQ/releases/tag/v2.3.2) if you use version v2021.2.21 of Among Us or [click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) if you use version v2021.12.9 of Among Us, and go to the Downloads section and click on "Download from GitHub" or "Download from Mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
 
 or 
 

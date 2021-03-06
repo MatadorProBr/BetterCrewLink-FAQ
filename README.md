@@ -46,6 +46,7 @@
 * [Extra features/bug fixes in this fork](#extra-featuresbug-fixes-in-this-fork)
 * [Installation](#installation)
 * [Possible Questions - FAQ](#possible-questions---faq)
+* [Change Logs](#change-logs)
 * [Upcoming Features](#upcoming-features)
 * [Create a Server](#create-a-server)
 * [Development](#development)

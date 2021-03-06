@@ -85,7 +85,7 @@
 - Microphone noise suppression.
 - More overlay positions and you can set the overlay to the top/bottom and you can set it so it shows everyone even when they aren't talking.
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
-- Suport for new version of Among Us (v2021.2.21)
+- Suport for new version of Among Us (v2021.3.5)
 - Support for mobile (BETA)
 ```
 If you want to suggest something that could be added, talk to the owner and developer of BetterCrewLink via Discord: ThaGuus#2140
@@ -185,6 +185,19 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
   * A: Yes and he and the [Official Discord of BetterCrewLink](https://discord.gg/qDqTzvj4SH), if you want to enter click on the image below:
   </p>
   <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
+  
+## Change Logs
+
+
+**Update 2.3.5**
+
+**Changes & Updates**
+
+* Implemented push to mute (hold the button to mute and release to speak) (thanks to: @JKohlman).
+* Now the volume switchers are more beautiful (thanks to: @JKohlman).
+* Deafen & undeafen won't frick with the push to talk settings anymore.
+* Added support for custom colors of the mods.
+* Support for new version of Among Us (v2021.3.5).
 
 ## Upcoming Features
 

@@ -191,6 +191,11 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
   
 ## Change Logs
 
+**Update 2.3.6**
+
+**Changes & Updates**
+
+Now the default voice server that will go to BetterCrewLink will be: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
 **Update 2.3.5**
 

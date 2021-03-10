@@ -89,6 +89,7 @@
 - More overlay positions and you can set the overlay to the top/bottom and you can set it so it shows everyone even when they aren't talking.
 - You can set the lobby up so only death people can talk (normal lobbies but then with death talk)
 - Suport for new version of Among Us (v2021.3.5)
+- Support for custom colors (mods that add more colors)
 - Support for mobile (BETA)
 ```
 If you want to suggest something that could be added, talk to the owner and developer of BetterCrewLink via Discord: ThaGuus#2140

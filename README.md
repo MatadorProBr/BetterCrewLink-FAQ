@@ -97,7 +97,9 @@ If you want to suggest something that could be added, talk to the owner and deve
 
 ## Installation
 
-**PC:**
+## PC:
+
+## Windows:
 
 [Click here](https://github.com/OhMyGuus/BetterCrewLink/releases/latest) and go to the Downloads section and click on "Download from github" or "Download from mirror" (you can download either one, they will download the same program), open the program, join or create a room on Among Us and that's it.
 
@@ -107,11 +109,17 @@ Use a web version: <a href="https://web.bettercrewl.ink">`https://web.bettercrew
 
 In my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
 
-**Android:**
+## Linux/macOS/Chromebook:
+
+No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/pull/29) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#installation) and look at the category "Windows".
+
+In my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
+
+## **Android:**
 
 You will need a person using BetterCrewLink on the PC and with the "Mobile Host" option enabled (to activate and just go in the settings and go down until you find the Mobile Host option) and the person on the cell phone will need to have the application from the [Play Store](https://play.google.com/store/apps/details?id=io.bettercrewlink.app) and when you open the application, allow the permissions it will ask for, put the same name and code that is in Among Us, click on "Connect", enter the room and that's it (remember that the mobile app only supports `https://` servers that don't have `https://` won't work for the mobile version).
 
-**iOS:**
+## **iOS:**
 
 For now there is no support for iOS, but you can bring support for iOS, but the project needs $100 to pay Apple's license to put the app on the App Store, so if you have money and feel like helping [donate via Patreon](https://patreon.com/OhMyGuus), [donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=KS43BDTGN76JQ) or [donate via Buy Me a Coffee](https://www.buymeacoffee.com/OhMyGuus).
 
@@ -181,9 +189,6 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
 
 * Q: Which "Voice Server" is recommended for me to use?
   * A: I recommend that you use: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a> for better compatibility with BetterCrewLink.
-
-* Q: Is BetterCrewLink compatible with Linux/Chromebook/macOS?
-  * A: No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/tree/linux) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#installation) and look at the category "PC".
 
 * Q: Do you have a BetterCrewLink Discord so I can ask for help with something?
   * A: Yes and he and the [Official Discord of BetterCrewLink](https://discord.gg/qDqTzvj4SH), if you want to enter click on the image below:

@@ -111,7 +111,7 @@ In my opinion I recommend you use the web version if your PC is a very bad PC, b
 
 ## Linux/macOS/Chromebook:
 
-No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/pull/29) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#installation) and look at the category "Windows".
+No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/pull/29) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#pc).
 
 In my opinion I recommend you use the web version if your PC is a very bad PC, because from what I had in my experience with BetterCrewLink people who download BetterCrewLink and use it with a very weak PC (practically on a very weak laptop) no had a good experience, he suffered from robotic voices constantly, so in my opinion if you have a very weak PC, ask your friend who has a medium or good PC to download and use BetterCrewLink, activate the "Mobile Host" option that is in the settings and then just enter the site, accept microphone permission, put the same name in Among Us and the code too and click on "Connect", enter the room and you're done.
 

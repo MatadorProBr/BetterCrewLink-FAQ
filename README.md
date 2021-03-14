@@ -113,7 +113,7 @@ In my opinion I recommend you use the web version if your PC is a very bad PC, b
 
 No, the Linux version is being developed and you can see its development by [clicking here](https://github.com/OhMyGuus/BetterCrewLink/pull/29) (and also when I release the version for Linux I will teach here how to use), but the others have not confirmed anything support, but that doesn’t mean you can’t use BetterCrewLink, there’s still a solution which is the web version (requires a PC player using the BetterCrewLink app) for more information on this [click here](#windows) and read the last paragraph of the "Windows" category.
 
-If you’re on a Chromebook, you can use the Android app by [clicking here](#android)
+If you’re on a Chromebook, you can use the Android app by [clicking here](#android).
 
 ## **Android:**
 

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: I want to report a bug, suggestion or problem about BetterCrewLink
+    url: https://github.com/MatadorProBr/BetterCrewLink-FAQ/issues/1
+    about: This project is just an unofficial FAQ about BetterCrewLink and we do not accept that you create a problem to report a bug, suggestion or problem with BetterCrewLink here, if you want to report a bug, suggestion or problem about BetterCrewLink click the button on the side called "Open".

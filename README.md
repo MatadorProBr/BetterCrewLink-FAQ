@@ -1,4 +1,4 @@
-[![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url] [![Donate][paypal-shield]](paypal-url) 
+[![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url] [![Donate][paypal-shield]](paypal-url) [![Discord](https://img.shields.io/discord/791516611143270410.svg?color=%237289da&label=discord)](https://discord.gg/qDqTzvj4SH)
 
 <br />
 <p align="center">
@@ -36,9 +36,9 @@
 
 Another warning that is not that important but, probably I will stop this FAQ, I will explain why, on a beautiful day there I was while making some changes to BetterCrewLink with pull requests until I receive an email from OhMyGuus (owner of BetterCrewLink) invited me to be a contributor to the project, that is, edit some things, and I accepted and with that he asked me to try to make a wiki on GitHub, and with that I will start to migrate everything that is here to the BetterCrewLink wiki, and when the migration is over, I will archive this FAQ, thanks to everyone who starred in the project.
 
- - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork unofficial and they will not support you, just use these three methods above if you need any help.
+- For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork unofficial and they will not support you, just use these three methods above if you need any help.
 
- - To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
+- To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
 </p>
 <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
@@ -315,4 +315,5 @@ Distributed under the GNU General Public License v3.0. See <a href="https://gith
 [appveyor-url]: https://ci.appveyor.com/project/OhMyGuus/bettercrewlink
 [paypal-url]: https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ
 [paypal-shield]: https://img.shields.io/badge/Donate-PayPal-green.svg
-[Discord]: https://img.shields.io/discord/791516611143270410.svg?color=%237289da&label=discord)](https://discord.gg/qDqTzvj4SH)
+[discord-shield]: https://img.shields.io/discord/791516611143270410.svg?color=%237289da&label=discord)
+[discord-url]: https://discord.gg/qDqTzvj4SH

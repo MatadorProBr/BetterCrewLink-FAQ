@@ -34,6 +34,8 @@
 
 **WARNING: This is a unofficial FAQ of BetterCrewLink but everything here was taken from GitHub and Discord and some that I discovered and put, I'm just a fan of the project.**
 
+Another warning that is not that important but, probably I will stop this FAQ, I will explain why, on a beautiful day there I was while making some changes to BetterCrewLink with pull requests until I receive an email from OhMyGuus (owner of BetterCrewLink) invited me to be a contributor to the project, that is, edit some things, and I accepted and with that he asked me to try to make a wiki on GitHub, and with that I will start to migrate everything that is here to the BetterCrewLink wiki, and when the migration is over, I will archive this FAQ, thanks to everyone who starred in the project.
+
  - For problems with this fork, you can send a message on the Discord (ThaGuus#2140 - owner and developer of BetterCrewLink), using [GitHub Issues](https://github.com/OhMyGuus/BetterCrewLink/issues) or [joining Discord](https://discord.gg/qDqTzvj4SH) and we will do our best to resolve it, do not ask for help from the official CrewLink server, as this is a fork unofficial and they will not support you, just use these three methods above if you need any help.
 
  - To get the most of BetterCrewLink use the voice server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>

@@ -302,6 +302,8 @@ If you like the project, you have money and want to help them continue the proje
 
 The proximity voice chat was originally done by [CrewLink](https://github.com/ottomated/CrewLink) - [ottomatted](https://github.com/ottomated) but was modified by [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) - [OhMyGuus](https://github.com/OhMyGuus) with improvements, features and others, this FAQ was made by a user or a fan of the project, the FAQ is not official and any questions you have between on the [BetterCrewLink Discord](https://discord.gg/qDqTzvj4SH) to ask for support, this FAQ was made to help people searching on GitHub how to use a proximity voice chat in Among Us (since the BetterCrewLink fork does not appear) and I had no intention of plagiarizing anything from BetterCrewLink and also all the information was taken from there and all links are official from BetterCrewLink/CrewLink.
 
+Another warning that is not that important but, probably I will stop this FAQ, I will explain why, on a beautiful day there I was while making some changes to BetterCrewLink with pull requests until I receive an email from OhMyGuus (owner of BetterCrewLink) invited me to be a contributor to the project, that is, edit some things, and I accepted and with that he asked me to try to make a [wiki on GitHub](https://github.com/OhMyGuus/BetterCrewLink/wiki), and with that I will start to migrate everything that is here to the [BetterCrewLink wiki](https://github.com/OhMyGuus/BetterCrewLink/wiki), and when the migration is over, I will archive this FAQ, thanks to everyone who starred in the project.
+
 </p>
 <a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
 

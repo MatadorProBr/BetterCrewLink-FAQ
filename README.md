@@ -49,7 +49,7 @@ Another warning that is not that important but, probably I will stop this FAQ, I
 * [About the Project](#about-the-project)
 * [Extra features/bug fixes in this fork](#extra-featuresbug-fixes-in-this-fork)
 * [Installation](#installation)
-  * [Windows](#pc)
+  * [Windows](#windows)
   * [Linux/macOS/Chromebook](#linuxmacoschromebook)
   * [Android](#android)
   * [iOS](#ios)
@@ -206,11 +206,22 @@ Watch this video for a better understanding, (but instead of doing it on CrewLin
   
 ## Change Logs
 
+**Update 2.4.0**
+
+**Changes & Updates**
+
+* Some design changes.
+* Microphone sensitivity got reset if it was higher than 0.3.
+* It will reconnect correctly now when you get disconnected from the voice server.
+* Comms sabotage is working now.
+* Now there is a button to Reset your settings in the new category "Troubleshoting".
+* Some small bug fixes.
+
 **Update 2.3.6**
 
 **Changes & Updates**
 
-Now the default voice server that will go to BetterCrewLink will be: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
+* Now the default voice server that will go to BetterCrewLink will be: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
 **Update 2.3.5**
 

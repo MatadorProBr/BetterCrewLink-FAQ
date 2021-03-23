@@ -315,3 +315,4 @@ Distributed under the GNU General Public License v3.0. See <a href="https://gith
 [appveyor-url]: https://ci.appveyor.com/project/OhMyGuus/bettercrewlink
 [paypal-url]: https://www.paypal.com/donate?hosted_button_id=KS43BDTGN76JQ
 [paypal-shield]: https://img.shields.io/badge/Donate-PayPal-green.svg
+[Discord]: https://img.shields.io/discord/791516611143270410.svg?color=%237289da&label=discord)](https://discord.gg/qDqTzvj4SH)
